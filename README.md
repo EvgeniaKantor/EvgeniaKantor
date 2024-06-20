@@ -2,7 +2,6 @@
 I'm a newly minted Data Analyst, having recently graduated in 2024 from the Developer.Institute Bootcamp in Tel Aviv. With a passion for uncovering insights from data, I'm eager to apply my skills in real-world projects. Let's turn data into actionable knowledge together!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=EvgeniaKantor&show_icons=true&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=EvgeniaKantor&show_icons=true&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniaKantor&layout=compact&theme=radical" />
 
 <!--
