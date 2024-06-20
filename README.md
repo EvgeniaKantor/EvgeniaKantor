@@ -1,6 +1,8 @@
 ## Hi there 👋 My name is Evgenia.
 I'm a newly minted Data Analyst, having recently graduated in 2024 from the Developer.Institute Bootcamp in Tel Aviv. With a passion for uncovering insights from data, I'm eager to apply my skills in real-world projects. Let's turn data into actionable knowledge together!
 
+<img align="center" 
+src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<EvgeniaKantor>&theme=<THEME_NAME>" />
 <!--
 **EvgeniaKantor/EvgeniaKantor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
